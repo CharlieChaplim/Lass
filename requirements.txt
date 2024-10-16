@@ -1,0 +1,4 @@
+discord.py
+validators
+schedule
+python-dotenv
